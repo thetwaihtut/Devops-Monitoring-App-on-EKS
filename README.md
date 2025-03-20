@@ -1,6 +1,6 @@
 ## Project Setup
 
-Project root has [`index.js`](/index.js) file. It simulates a simple app that runs infinitely & sends metrics to a [`statsd`](https://github.com/statsd/statsd) server.
+The project root contains an index.js file, which simulates a simple application that runs indefinitely and sends metrics to a StatsD server.
 
 
 ## Installation
